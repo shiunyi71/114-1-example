@@ -11,7 +11,7 @@ int main() {
     // 變數宣告和基本操作
     int number = 42;
     float pi = 3.14159;
-    char greeting[] = "歡迎使用C語言。";
+    char greeting[] = "不歡迎使用Python";
     
     printf("整數: %d\n", number);
     printf("浮點數: %.2f\n", pi);
