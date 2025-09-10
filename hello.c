@@ -3,6 +3,10 @@
 
 int main() {
     printf("Hello, World!\n");
+    printf("Hello, World!\n");
+    printf("Hello, World!\n");
+    printf("Hello, World!\n");
+    printf("Hello, World!\n");
     
     // 變數宣告和基本操作
     int number = 42;
